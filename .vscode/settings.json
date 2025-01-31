@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "tools.h": "c",
+        "h3_utils.h": "c"
+    }
+}

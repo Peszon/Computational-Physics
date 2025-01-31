@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "gsl_fft_real.h": "c",
+        "tools.h": "c",
+        "mechanics_utilities.h": "c",
+        "gsl_randist.h": "c",
+        "mechanic_utilities.h": "c",
+        "stdio.h": "c",
+        "stdlib.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "enabled"
+}
